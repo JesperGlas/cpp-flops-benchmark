@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jesper/dev/cpp/cpp-flops-benchmark/build",
+  "command": "/usr/bin/g++   -I/home/jesper/dev/cpp/cpp-flops-benchmark/build -I/home/jesper/dev/cpp/cpp-flops-benchmark/include  -Wall -Werror -g   -std=gnu++17 -o CMakeFiles/cpp-flops-benchmark.dir/src/main.cpp.o -c /home/jesper/dev/cpp/cpp-flops-benchmark/src/main.cpp",
+  "file": "/home/jesper/dev/cpp/cpp-flops-benchmark/src/main.cpp"
+}
+]

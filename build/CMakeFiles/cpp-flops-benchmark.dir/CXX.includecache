@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jesper/dev/cpp/cpp-flops-benchmark/src/main.cpp
+ProjectConfig.hpp
+/home/jesper/dev/cpp/cpp-flops-benchmark/src/ProjectConfig.hpp
+iostream
+-
+chrono
+-
+cmath
+-
+random
+-
+string
+-
+fstream
+-
+
+ProjectConfig.hpp
+
